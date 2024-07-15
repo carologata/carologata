@@ -1,8 +1,8 @@
 <h1 align='center'> 👋 Hello! Welcome to my Github profile 👩🏻‍💻 </h1>
 
-<p>
+<h4>
   My name is Caroline and I'm a Software Engineering student at <strong><a href="https://www.42sp.org.br/" target="_blank" style="color: white; text-decoration: none;">42 São Paulo</a></strong>
-</p>          
+</h4>          
 
 
 <p>
