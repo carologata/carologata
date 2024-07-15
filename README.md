@@ -5,7 +5,7 @@
 </p>          
 
 <p>
-  <a href="www.linkedin.com/in/caroline-lumy-ogata/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/caroline-lumy-ogata"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
