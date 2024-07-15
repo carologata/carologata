@@ -1,8 +1,9 @@
 <h1 align='center'> 👋 Hello! Welcome to my Github profile 👩🏻‍💻 </h1>
 
 <p>
-  My name is Caroline and I'm a Software Engineering student at <strong><a href="https://www.42network.org/" target="_blank">42 São Paulo</a></strong>
+  My name is Caroline and I'm a Software Engineering student at <strong><a href="https://www.42sp.org.br/" target="_blank" style="color: white; text-decoration: none;">42 São Paulo</a></strong>
 </p>          
+
 
 <p>
   <a href="https://www.linkedin.com/in/caroline-lumy-ogata"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
