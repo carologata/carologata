@@ -12,7 +12,7 @@
 <hr>
 
 <h4> 📚 I'm currently learning...</h4>
-<p >
+<p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -25,29 +25,36 @@
 <hr>
 
 <h3> 42 Projects </h3>
-   <a href="https://github.com/carologata/42-libft" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png">
-   </a><a href="https://github.com/carologata/42-get_next_line" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png">
-   </a><a href="https://github.com/carologata/42-ft_printf" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png">
-   </a><a href="https://github.com/carologata/42-born2beroot" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png">
-   </a><a href="https://github.com/carologata/42-fdf" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png">
-   </a><a href="https://github.com/carologata/42-pipex" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/pipexm.png">
-   </a>
-   <br>
-   <a href="https://github.com/carologata/42-push_swap" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png">
-   </a><a href="https://github.com/carologata/42-minishell" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png">
-   </a><a href="https://github.com/carologata/42-philosophers" target="_blank">
-      <img height=115 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png">
-   </a><a href="https://github.com/carologata/42-NetPractice" target="_blank">
-      <img height=110 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticem.png">
-   </a>
+   <a href="https://github.com/carologata/42-libft" target="_blank" style="color: white; text-decoration: none;">
+      • libft
+   </a> </br>
+   <a href="https://github.com/carologata/42-get_next_line" target="_blank" style="color: white; text-decoration: none;">
+      • get_next_line
+   </a> </br>
+   <a href="https://github.com/carologata/42-ft_printf" target="_blank" style="color: white; text-decoration: none;">
+     • ft_printf
+   </a> </br>
+   <a href="https://github.com/carologata/42-born2beroot" target="_blank" style="color: white; text-decoration: none;">
+     • born2beroot
+   </a> </br>
+   <a href="https://github.com/carologata/42-fdf" target="_blank" style="color: white; text-decoration: none;">
+      • fdf
+   </a> </br>
+   <a href="https://github.com/carologata/42-pipex" target="_blank" style="color: white; text-decoration: none;">
+     • pipex
+   </a> </br>
+   <a href="https://github.com/carologata/42-push_swap" target="_blank" style="color: white; text-decoration: none;">
+     • push_swap
+   </a> </br>
+   <a href="https://github.com/carologata/42-minishell" target="_blank" style="color: white; text-decoration: none;">
+     • minishell
+   </a> </br>
+   <a href="https://github.com/carologata/42-philosophers" target="_blank" style="color: white; text-decoration: none;">
+     • philosophers
+   </a> </br>
+   <a href="https://github.com/carologata/42-NetPractice" target="_blank" style="color: white; text-decoration: none;">
+     • netpractice
+   </a> </br>
 
 <hr>
 
