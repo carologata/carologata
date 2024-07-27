@@ -26,38 +26,49 @@
 
 <h3> 42 Projects </h3>
    <a href="https://github.com/carologata/42-libft" target="_blank" style="color: white; text-decoration: none;">
-      • libft
-   </a> </br>
+      <h4>• libft</h4>
+   </a> 
    <a href="https://github.com/carologata/42-get_next_line" target="_blank" style="color: white; text-decoration: none;">
-      • get_next_line
-   </a> </br>
+      <h4>• get_next_line</h4>
+   </a> 
    <a href="https://github.com/carologata/42-ft_printf" target="_blank" style="color: white; text-decoration: none;">
-     • ft_printf
-   </a> </br>
+     <h4>• ft_printf</h4>
+   </a> 
    <a href="https://github.com/carologata/42-born2beroot" target="_blank" style="color: white; text-decoration: none;">
-     • born2beroot
-   </a> </br>
+     <h4>• born2beroot</h4>
+   </a> 
    <a href="https://github.com/carologata/42-fdf" target="_blank" style="color: white; text-decoration: none;">
-      • fdf
-   </a> </br>
+      <h4>• fdf</h4>
+   </a> 
    <a href="https://github.com/carologata/42-pipex" target="_blank" style="color: white; text-decoration: none;">
-     • pipex
-   </a> </br>
+     <h4>• pipex</h4>
+   </a> 
    <a href="https://github.com/carologata/42-push_swap" target="_blank" style="color: white; text-decoration: none;">
-     • push_swap
-   </a> </br>
+     <h4>• push_swap</h4>
+   </a> 
    <a href="https://github.com/carologata/42-minishell" target="_blank" style="color: white; text-decoration: none;">
-     • minishell
-   </a> </br>
+    <h4> • minishell</h4>
+   </a> 
    <a href="https://github.com/carologata/42-philosophers" target="_blank" style="color: white; text-decoration: none;">
-     • philosophers
-   </a> </br>
+     <h4>• philosophers</h4>
+   </a> 
    <a href="https://github.com/carologata/42-NetPractice" target="_blank" style="color: white; text-decoration: none;">
-     • netpractice
-   </a> </br>
+     <h4>• netpractice</h4>
+   </a> 
 
 <hr>
 
 <h3> Web Projects </h3>
-
+  <a href="#" target="_blank" style="color: white; text-decoration: none;">
+      <h4>• Travel Planner</h4>
+  </a>   
+  <a href="https://github.com/carologata/CoffeeDelivery-Ignite" target="_blank" style="color: white; text-decoration: none;">
+      <h4>• Coffee Delivery</h4>
+   </a> 
+   <a href="https://github.com/carologata/Timer-Ignite" target="_blank" style="color: white; text-decoration: none;">
+      <h4>• Timer</h4>
+   </a> 
+   <a href="https://github.com/carologata/ToDoList-Ignite" target="_blank" style="color: white; text-decoration: none;">
+      <h4>• To-Do List</h4>
+   </a> 
 
